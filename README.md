@@ -1,6 +1,8 @@
 active-learning-scala
 =====================
 
+[This code was useful during my phd, please contact me if you need to put it to work in new versions of sbt and scala]
+
 An Active Learning library for Scala
 Based on [machine-learning-scala](https://github.com/machine-learning-scala/mls "mls") 
 framework.
